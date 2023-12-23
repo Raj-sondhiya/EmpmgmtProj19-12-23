@@ -1,3 +1,0 @@
-What is minified file or what is .min extension
-
-A file in which no spaces are available. It is in machine readable format.
